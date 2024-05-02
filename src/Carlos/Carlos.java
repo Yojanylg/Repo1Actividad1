@@ -8,7 +8,7 @@ public class Carlos {
 		}
 
 	static void imprimirNombre() {
-	System.out.println("Hola, soy Paloma de los Milagros Martínez");
+	System.out.println("Hola, soy Carlos Canorea Maestre");
 	}
 
 
